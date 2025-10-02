@@ -1,6 +1,6 @@
 # 🚀 Cards Template – From Scratch  
 
-🔗 **Live Demo:** (cards-template-mobile-responsive.netlify.app)
+🔗 **Live Demo:** [cards-template-mobile-responsive.netlify.app]
 
 ## 📖 About  
 This is a **Cards Template template** built completely from scratch using **HTML, CSS**.  
